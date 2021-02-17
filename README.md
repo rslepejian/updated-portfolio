@@ -15,7 +15,7 @@ This is a portfolio to display contact information, relevant links, and featured
 
 ## Deployed Link
 
-* [See Live Site](https://rslepejian.github.io/portfolio/)
+* [See Live Site](https://rslepejian.github.io/updated-portfolio/)
 
 ## Preview of Working Site
 
