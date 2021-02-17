@@ -1,5 +1,8 @@
 body {
-    background-image: url(images/bluejean.jpg);
+    background-image: url(images/space_bgkr.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
 }
 
 #name, #email, #phone {
@@ -21,7 +24,9 @@ body {
 }
 
 #header {
-    background-image: url(images/stockvault-waves.jpg);
+    background-image: url(images/black_sand.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .row{
@@ -31,14 +36,15 @@ body {
 #links {
     margin-bottom: 20px;
     padding: 30px;
-    background-image: url(images/pixabay_triangles_pink.png);
+    background-image: url(images/pink_bubble.jpg);
+    background-size: cover;
+    background-attachment: fixed;
     border-radius: 30px;
 }
 
 #projects {
     border-radius: 30px;
     padding: 30px;
-    background-image: url(images/stockvault-waves.jpg);
     margin-top: 60px;
     margin-bottom: 30px;
 }
@@ -57,7 +63,9 @@ body {
     padding: 20px;
     padding-right: 0px;
     border-radius: 30px;
-    background-image: url(images/pixabay_triangles_small.png);
+    background-image: url(images/red_roses.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .project-preview {
