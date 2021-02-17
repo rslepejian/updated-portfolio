@@ -1,0 +1,65 @@
+body {
+    background-image: url(images/bluejean.jpg);
+}
+
+#name, #email, #phone {
+    text-align: center;
+    color: white;
+    padding-bottom: 15px;
+}
+
+#email,#phone {
+    margin-top: 80px;
+}
+
+#name {
+    padding-top: 50px;
+}
+
+#main-content {
+    margin-top: 30px;
+}
+
+#header {
+    background-image: url(images/stockvault-waves.jpg);
+}
+
+.row{
+    width: 100%;
+}
+
+#links {
+    margin-bottom: 20px;
+    padding: 30px;
+    background-image: url(images/pixabay_triangles_pink.png);
+    border-radius: 30px;
+}
+
+#projects {
+    border-radius: 30px;
+    padding: 30px;
+    background-image: url(images/stockvault-waves.jpg);
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.project-title {
+    color: white;
+}
+
+#proj-header {
+    text-align: center;
+    color: white;
+}
+
+#project-2, #project-1, #project-3, #project-4, #project-5 {
+    margin-bottom: 30px;
+    padding: 20px;
+    padding-right: 0px;
+    border-radius: 30px;
+    background-image: url(images/pixabay_triangles_small.png);
+}
+
+.project-preview {
+    max-width: 80%;
+}
